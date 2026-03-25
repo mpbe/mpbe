@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Mike, an aspiring full-stack software developer based in the UK
+
+My main tech stack includes python, java, react and tailwind css. I am a keen learner and am always looking to expand my knowledge further!
+
+The next project I will be uploading is in React, and I am looking to start work on this soon.
+
 <!--
 **mpbe/mpbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
